@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kotlin</string>
+    <string name="dont_click">DONT CLICK!!!</string>
 </resources>
